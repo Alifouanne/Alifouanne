@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Next.JS**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-silk-eight.vercel.app/](https://my-portfolio-silk-eight.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://ali-fouanne.vercel.app/](https://ali-fouanne.vercel.app/)
 
 - 💬 Ask me about **React , Next.JS**
 
